@@ -2,11 +2,10 @@
 
 ### Personal details
 
-`Address:` Berlin
-`Email:` [name.surname[at]gmail.com](mailto: wiktor.owczarz@gmail.com)
-`Virtual contributions:` [GitHub](https://github.com/ln-P), [StackOverflow](https://stackoverflow.com/users/5856119/an-economist?tab=p)
-
-___
+`Address:` Berlin  
+`Email:` [name.surname[at]gmail.com](mailto: wiktor.owczarz@gmail.com)  
+`Virtual contributions:` [GitHub](https://github.com/ln-P), [StackOverflow](https://stackoverflow.com/users/5856119/an-economist?tab=p)  
+__
 
 ### Who am I?
 
