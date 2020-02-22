@@ -4,8 +4,10 @@
 
 `Address:` Berlin  
 `Email:` [name.surname[at]gmail.com](mailto: wiktor.owczarz@gmail.com)  
-`Virtual contributions:` [GitHub](https://github.com/ln-P), [StackOverflow](https://stackoverflow.com/users/5856119/an-economist?tab=p)  
-__
+`Contributions:` [GitHub](https://github.com/ln-P), [StackOverflow](https://stackoverflow.com/users/5856119/an-economist?tab=p)  
+
+![Image of Yaktocat](~/images/GitHub-Mark-64px.png)
+___
 
 ### Who am I?
 
