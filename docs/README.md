@@ -4,7 +4,7 @@
 
 `Address:` Berlin  
 `Email:` [name.surname[at]gmail.com](mailto: wiktor.owczarz@gmail.com)  
-`Contributions:` [![octocat]](https://github.com/ln-P), [StackOverflow](https://stackoverflow.com/users/5856119/an-economist?tab=p)  
+`Contributions:`[<img src="./images/GitHub-Mark-32px.png" width="30">](https://github.com/ln-P) [<img src="./images/so-image.png" width="30">](https://stackoverflow.com/users/5856119/an-economist?tab=p)  
 
 
 ___
@@ -29,3 +29,4 @@ ___
 **Economist**, E.CA Economics <div style="text-align: right"> Nov 2018 - </div>
 
 [octocat]:  ./images/GitHub-Mark-32px.png
+[so]:  ./images/so-icon.png
