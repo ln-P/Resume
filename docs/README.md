@@ -3,8 +3,8 @@
 ### Personal details
 
 `Address:` Berlin  
-`Email:` [name.surname[at]gmail.com](mailto: wiktor.owczarz@gmail.com)  
-`Contributions:` &ensp; [<img src="./images/GitHub-Mark-32px.png" height="17">](https://github.com/ln-P) &ensp; [<img src="./images/so-image.png" height="17">](https://stackoverflow.com/users/5856119/an-economist?tab=p)  
+`Email:` [name.surname@gmail.com](mailto: wiktor.owczarz@gmail.com)  
+`Contributions:` &ensp; [<img src="./images/GitHub-Mark-32px.png" height="17">](https://github.com/ln-P) &ensp; [<img src="./images/so-image.png" height="17">](https://stackoverflow.com/users/5856119/an-economist?tab=profile)  
 
 
 ___
