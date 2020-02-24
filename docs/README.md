@@ -38,8 +38,8 @@ ___
 
 ### Skills
 `Technologies:`Python (NumPy, Pandas, scikit-learn, Matplotlib, NLTK), R (Shiny, ggplot2,
-dplyr), SQL, Git, Unix, STATA, ArcGIS, Tableau, LaTeX, beginner: AWS (EC2, S3)
-`Languages:` Polish (native), English (fluent), German (intermediate - B2)
+dplyr), SQL, Git, Unix, STATA, ArcGIS, Tableau, LaTeX, beginner: AWS (EC2, S3)  
+`Languages:` Polish (native), English (fluent), German (intermediate - B2)  
 
 
 
