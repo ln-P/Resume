@@ -26,18 +26,11 @@ ___
 
 ### Experience 
 
-Nov 2018 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Economist**, E.CA Economics  
- &emsp; Responsible for econometric analysis in the major European antitrust case. Developed panel data mining tool. (Python, R, STATA)  
-Feb 2018 - Oct 2018  | **Data Science Intern**, Haensel - AMS  
- &emsp; Worked on models for customer segmentation based on online behaviour (Python)    
-Nov 2017 - Sep 2018  | **Research Assistant**, Maastricht University  
- &emsp; Investigated methods how to measure text uncertainty in Central Bank's publications (NLP: Python)  
-Jun 2017 - Sept 2017  | **Intern Structured Finance Analyst**, Scope Ratings  
- &emsp; Created portfolio default rates extrapolation tool (Python, R)  
+Nov 2018 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Economist**, E.CA Economics (Python, R, STATA)  
+Feb 2018 - Oct 2018  | **Data Science Intern**, Haensel - AMS (Python)    
+Nov 2017 - Sep 2018  | **Research Assistant**, Maastricht University (NLP: Python)  
+Jun 2017 - Sept 2017 | **Intern Structured Finance Analyst**, Scope Ratings (Python, R)  
 Nov 2016 - May 2017  | **Teaching Assistant**, Maastricht University  
- &emsp; Tutoring undergraduate Microeconomics and Macroeconomics  
-Jan 2016 - Sep 2016  | **Analyst and Working Student**, Zalando 
- &emsp; Developing A/B testing and reporting tool (R, Shiny)  
-Jun 2015 - Sep 2015  | **AEconomic Analyst**, Embassy of Poland in London  
- &emsp; Immigration data analysis (R)  
+Jan 2016 - Sep 2016  | **Analyst and Working Student**, Zalando (R, Shiny)  
+Jun 2015 - Sep 2015  | **Economic Analyst**, Embassy of Poland in London (R)  
  
