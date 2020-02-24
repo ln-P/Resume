@@ -17,10 +17,10 @@ ___
 
 ### Education  
 
-2016 - 2018 | **MSc Economics (Research)**, Maastricht University  
+2016 - 2018 | **MSc Economics (Research)**, *Maastricht University*  
  &emsp;  Thesis: [Natual Language Processing in Banking Competition Studies](https://github.com/ln-P/MasterThesis)  
-2015 - 2016 | **BSc Economics**, Humboldt University (Exchange Semester)  
-2013 - 2016 | **BSc Economics**, Maastricht University  
+2015 - 2016 | **BSc Economics**, *Humboldt University (Exchange Semester)*  
+2013 - 2016 | **BSc Economics**, *Maastricht University*  
 
 ___
 
@@ -39,7 +39,7 @@ ___
 ### Skills
 `Technologies:`Python (NumPy, Pandas, scikit-learn, Matplotlib, NLTK), R (Shiny, ggplot2,
 dplyr), SQL, Git, Unix, STATA, ArcGIS, Tableau, LaTeX, beginner: AWS (EC2, S3)  
-`Languages:` Polish (native), English (fluent), German (intermediate - B2)  
+`Languages:` Polish (native), English (fluent), German (intermediate - B2.1)  
 
 
 
