@@ -26,9 +26,9 @@ ___
 
 ### Experience 
 
-Nov 2018 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Economist**, E.CA Economics (Python, R, STATA)  
+Nov 2018 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Economist**, E.CA Economics (Python, R, STATA)  
 Feb 2018 - Oct 2018 | **Data Science Intern**, Haensel - AMS (Python)  
-Nov 2017 - Sep 2018 | **Research Assistant**, Maastricht University (NLP: Python)  
+Nov 2017 - Sep 2018 | **Research Assistant**, Maastricht University (Python)  
 Jun 2017 - Sep 2017 | **Intern Structured Finance Analyst**, Scope Ratings (Python, R)  
 Nov 2016 - May 2017 | **Teaching Assistant**, Maastricht University  
 Jan 2016 - Sep 2016 | **Analyst and Working Student**, Zalando (R, Shiny)  
