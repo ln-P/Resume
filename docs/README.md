@@ -16,11 +16,11 @@ Economist who like to transforms problems into code. I have broad analytical exp
 ___
 
 ### Education  
-| **MSc Economics (Research)**, Maastricht University          | 2016 - 2018 |
-| ------------------------------------------------------------ | ----------- |
-| Thesis: *Natual Language Processing in Banking Competition Studies*  |      |
-| **BSc Economics**, Humboldt University (Exchange Semester)   | 2015 - 2016 |
-| **BSc Economics**, Maastricht University                     | 2013 - 2016 |
+
+2016 - 2018    **MSc Economics (Research)**, Maastricht University 
+      Thesis: *Natual Language Processing in Banking Competition Studies*
+2011 - 2016    **BSc Economics**, Humboldt University (Exchange Semester)
+2013 - 2016    **BSc Economics**, Maastricht University
 
 ___
 
@@ -28,5 +28,3 @@ ___
 
 **Economist**, E.CA Economics <div style="text-align: right"> Nov 2018 - </div>
 
-[octocat]:  ./images/GitHub-Mark-32px.png
-[so]:  ./images/so-icon.png
