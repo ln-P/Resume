@@ -17,10 +17,10 @@ ___
 
 ### Education  
 
-2016 - 2018    **MSc Economics (Research)**, Maastricht University  
+2016 - 2018 &ensp; **MSc Economics (Research)**, Maastricht University  
  &emsp;  Thesis: *Natual Language Processing in Banking Competition Studies*  
-2011 - 2016    **BSc Economics**, Humboldt University (Exchange Semester)  
-2013 - 2016    **BSc Economics**, Maastricht University  
+2011 - 2016 &ensp; **BSc Economics**, Humboldt University (Exchange Semester)  
+2013 - 2016 &ensp; **BSc Economics**, Maastricht University  
 
 ___
 
