@@ -11,7 +11,7 @@ ___
 
 ### Who am I?
 
-Economist who like to transforms problems into code. I have broad analytical experience from cartel overcharge estimations and European framework post-evaluation to topic modelling and default rates forecasting. In my free time, I enjoy sharing food with my family and solving boulder problems.
+Economist who likes to transforms problems into code. I have broad analytical experience from cartel overcharge estimations and European framework post-evaluation to topic modelling and default rates forecasting. In my free time, I enjoy sharing food with my family and solving boulder problems.
 
 ___
 
