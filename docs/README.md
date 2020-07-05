@@ -44,10 +44,13 @@ dplyr), SQL, Git, Unix, STATA, ArcGIS, Tableau, LaTeX, beginner: AWS (EC2, S3)
 ___
 
 ### My projects
+
+#### State aid notifications over time
+I recently prepared interactive map that captures notification propensity in response of economic developments accross the Europe. 
 ![aid_map](./map.gif) 
-[State Aid over time](./map.gif) 
+[Zoom in](./map.gif) 
 
-
+#### EU regional aid framework - retrospective evaluation
 I was involved in retrospective evaluation support study on the EU regional aid framework applicable from 2014 to 2020 (“the RAF 2014”). I was mainly responsible in creation of the maps visualising different measures across Europe. 
 [ublications Office of the EU](https://op.europa.eu/en/publication-detail/-/publication/4c143fec-6281-11ea-b735-01aa75ed71a1/language-en/format-PDF/source-121845138) 
 
