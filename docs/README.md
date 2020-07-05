@@ -41,5 +41,11 @@ ___
 dplyr), SQL, Git, Unix, STATA, ArcGIS, Tableau, LaTeX, beginner: AWS (EC2, S3)  
 `Languages:` Polish (native), English (fluent), German (intermediate - B2.1)  
 
+___
+
+### My projects
+[State Aid over time](./project_1.md) 
+[Retrospective evaluation of the regional aid framework](./project_2.md) 
+
 
 
