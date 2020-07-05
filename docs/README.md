@@ -47,10 +47,10 @@ ___
 
 #### State aid notifications over time
 ![aid_map](./map.gif) 
-I prepared interactive map that captures notification propensity in response of economic developments accross the Europe. The maps allows to obsarve the scale of the response to the COVID-19 crisis. [Follow the link to see the full map](./map.gif) 
+I prepared interactive map (in R-Shiny) that captures notification propensity in response of the economic developments across Europe. The maps allows to observe the scale of the response to the COVID-19 crisis. [Follow the link to see the full map](./map.gif) 
 
 #### EU regional aid framework - retrospective evaluation
-I was involved in retrospective evaluation support study on the EU regional aid framework applicable from 2014 to 2020 (“the RAF 2014”). I was mainly responsible in creation of the maps visualising different measures across Europe. [Publication of the study on the EU website](https://op.europa.eu/en/publication-detail/-/publication/4c143fec-6281-11ea-b735-01aa75ed71a1/language-en/format-PDF/source-121845138) 
+I was part of a team preparing retrospective evaluation support study on the EU regional aid framework applicable from 2014 to 2020 (“the RAF 2014”). I was mainly responsible in creation of the various visualizations across Europe. [Publication of the study on the EU website](https://op.europa.eu/en/publication-detail/-/publication/4c143fec-6281-11ea-b735-01aa75ed71a1/language-en/format-PDF/source-121845138) 
 
 
 
