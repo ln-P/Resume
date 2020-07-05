@@ -44,8 +44,8 @@ dplyr), SQL, Git, Unix, STATA, ArcGIS, Tableau, LaTeX, beginner: AWS (EC2, S3)
 ___
 
 ### My projects
-[State Aid over time](./project_1.md) 
-[Retrospective evaluation of the regional aid framework](./project_2.md) 
+[State Aid over time](./docs/project_1.md) 
+[Retrospective evaluation of the regional aid framework](./docs/project_2.md) 
 
 
 
