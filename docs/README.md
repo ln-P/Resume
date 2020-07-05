@@ -11,7 +11,7 @@ ___
 
 ### Who am I?
 
-Economist who likes to transforms problems into code. I have broad analytical experience from cartel overcharge estimations and European framework post-evaluation to topic modelling and default rates forecasting. In my free time, I enjoy sharing food with my family and solving boulder problems.
+Economist who likes to transform problems into code. I have broad analytical experience from cartel overcharge estimations and European framework evaluation to topic modelling and default rates forecasting. In my free time, I enjoy sharing food with my family and solving boulder problems.
 
 ___
 
@@ -47,10 +47,10 @@ ___
 
 #### State aid notifications over time
 ![aid_map](./map.gif) 
-I prepared interactive map (in R-Shiny) that captures notification propensity in response of the economic developments across Europe. The maps allows to observe the scale of the response to the COVID-19 crisis. [Follow the link to see the full map](./map.gif) 
+I prepared interactive map (in R-Shiny) that captures notification propensity in response of the economic developments across Europe. The maps allows to observe the scale of the response to the COVID-19 crisis. [Follow the link to see the full map.](./map.gif) 
 
 #### EU regional aid framework - retrospective evaluation
-I was part of a team preparing retrospective evaluation support study on the EU regional aid framework applicable from 2014 to 2020 (“the RAF 2014”). I was mainly responsible in creation of the various visualizations across Europe. [Publication of the study on the EU website](https://op.europa.eu/en/publication-detail/-/publication/4c143fec-6281-11ea-b735-01aa75ed71a1/language-en/format-PDF/source-121845138) 
+I was part of a team preparing retrospective evaluation support study on the EU regional aid framework applicable from 2014 to 2020 (“the RAF 2014”). I was mainly responsible in creation of the various visualizations across Europe. [Publication of the study on the EU website.](https://op.europa.eu/en/publication-detail/-/publication/4c143fec-6281-11ea-b735-01aa75ed71a1/language-en/format-PDF/source-121845138) 
 
 
 
