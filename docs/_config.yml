@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-minimal_mistakes_skin: "contrast" # "air", "aqua", "default", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+author_profile: true
 title: [About me]
 description: [I am Wiktor Owczarz (Ow-chash). This site is my digital resume.]
 sidebar:
