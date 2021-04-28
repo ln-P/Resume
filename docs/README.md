@@ -26,9 +26,9 @@ ___
 
 ### Experience 
 
-03/2021 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Associate Data Scientist**, *Compass Lexecon* (Python, R)  
+03/2021 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Associate Data Scientist**, *Compass Lexecon* (Python, R, SQL)  
 11/2018 - 02/2021 | **Economist**, *E.CA Economics* (Python, R, STATA, ArcGIS)  
-02/2018 - 10/2018 | **Data Science Intern**, *Haensel - AMS* (Python)  
+02/2018 - 10/2018 | **Data Science Intern**, *Haensel - AMS* (Python, SQL)  
 11/2017 - 09/2018 | **Research Assistant**, *Maastricht University* (Python)  
 06/2017 - 09/2017 | **Intern Analyst**, *Scope Ratings* (Python, R)  
 11/2016 - 05/2017 | **Teaching Assistant**, *Maastricht University*  
