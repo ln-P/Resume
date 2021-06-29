@@ -53,5 +53,7 @@ I prepared interactive map (in R-Shiny) that captures notification propensity in
 #### EU regional aid framework - retrospective evaluation
 I was part of a team preparing retrospective evaluation support study on the EU regional aid framework applicable from 2014 to 2020 (“the RAF 2014”). I was mainly responsible in creation of the geospartial visualizations of Europe. [Publication of the study on the EU website.](https://op.europa.eu/en/publication-detail/-/publication/4c143fec-6281-11ea-b735-01aa75ed71a1/language-en/format-PDF/source-121845138) 
 
+#### Other
+<iframe width="623.5" seamless frameborder="0" scrolling="no" src="./gb_rental_agencies_map.html"></iframe>
 
 
