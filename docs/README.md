@@ -28,7 +28,7 @@ ___
 
 03/2023 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Senior Data Scientist**, *Compass Lexecon* (Python, R, SQL)  
 03/2022 - 03/2023 |   **Data Scientist**, *Compass Lexecon* (Python, R, SQL)  
-03/2021 - 03/2022 |   **Associate Data Scientist**, *Compass Lexecon* (Python, SQL)  
+03/2021 - 03/2022 |   **Associate Data Scientist**, *Compass Lexecon* (Python, SQL) 
 11/2018 - 02/2021 | **Economist**, *E.CA Economics* (Python, R, STATA, ArcGIS)  
 02/2018 - 10/2018 | **Data Science Intern**, *Haensel - AMS* (Python, SQL)  
 11/2017 - 09/2018 | **Research Assistant**, *Maastricht University* (Python)  
