@@ -11,7 +11,7 @@ ___
 
 ### Who am I?
 
-Economist who likes to transform problems into code. I have broad analytical experience from cartel overcharge estimations and European framework evaluation to topic modelling and default rates forecasting. In my free time, I enjoy sharing food with my family and solving boulder problems.
+Economist who likes to transform problems into code. I have broad experience including econometrics, geographical analysis and large data processing. In my free time I enjoy food, cycling and long walks with dog.
 
 ___
 
@@ -26,7 +26,9 @@ ___
 
 ### Experience 
 
-03/2021 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Associate Data Scientist**, *Compass Lexecon* (Python, R, SQL)  
+03/2023 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Senior Data Scientist**, *Compass Lexecon* (Python, R, SQL) 
+03/2022 - 03/2023 |   **Data Scientist**, *Compass Lexecon* (Python, R, SQL) 
+03/2021 - 03/2022 |   **Associate Data Scientist**, *Compass Lexecon* (Python, R, SQL)  
 11/2018 - 02/2021 | **Economist**, *E.CA Economics* (Python, R, STATA, ArcGIS)  
 02/2018 - 10/2018 | **Data Science Intern**, *Haensel - AMS* (Python, SQL)  
 11/2017 - 09/2018 | **Research Assistant**, *Maastricht University* (Python)  
@@ -38,13 +40,18 @@ ___
 ___
 
 ### Skills
-`Technologies:`Python (NumPy, Pandas, scikit-learn, Matplotlib, NLTK), R (Shiny, ggplot2,
-dplyr), SQL, Git, Unix, STATA, ArcGIS, Tableau, LaTeX, beginner: AWS (EC2, S3)  
+`Technologies:`Python (standard toolkit and folium, pySpark), R (Shiny, ggplot2,
+dplyr), SQL, Databricks, Git, STATA, ArcGIS, Tableau, LaTeX, beginner: cloud, AWS (EC2, S3) and Azure (Blob Storage, Delta Lakes)  
 `Languages:` Polish (native), English (fluent), German (intermediate - B2.1)  
 
 ___
 
 ### My projects
+
+#### Work related publications that I was involved in
+* [Building geospartial analysis toolkit](https://www.compasslexecon.com/a-taste-of-geospatial-analysis-for-competition-economics/)
+* [Record linkage package in competition analysis](https://www.compasslexecon.com/game-set-and-fuzzy-match/)
+* [Web application for searching within antitrust documents](https://www.compasslexecon.com/decision-search-tool-behind-the-scenes/)
 
 #### State aid notifications over time
 ![aid_map](./map.gif) 
